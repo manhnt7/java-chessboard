@@ -1,0 +1,7 @@
+# Distribution / packaging
+.gradle/
+.idea/
+build/
+gradle/
+gradlew
+gradlew.bat
